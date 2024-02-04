@@ -1,0 +1,39 @@
+a h1{
+    font-size:34px;
+    color:#3e7c5a;  
+}
+#nav--bar a h1:hover{
+    padding-top: 5px;
+}
+#nav--bar{
+    background-color: rgb(195, 194, 194);
+    display: flex;
+}
+#nav-ul a{
+    color:#557c3e;
+    font-size:20px;
+    text-align: center;  
+}
+#nav-ul a:hover{
+    background-color:#3e7c5a ;
+    color:#000000;
+}
+
+
+/* maincontent css */
+
+#main h1{
+    padding-top:20px ;
+    text-align: center;
+}
+#content h2{
+    text-align: center;
+    
+}
+
+#content p{
+    background-color: rgb(117, 116, 116);
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+}
